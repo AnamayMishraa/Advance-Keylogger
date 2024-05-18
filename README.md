@@ -44,7 +44,9 @@ This section will guide you through using the keylogger script for educational a
 <ul>
 <li><b>Download the keylogger.rar:</b> Unzip and you will find the executable file in the dist directory. The executable file is typically named main.exe.<br></li>
 <li><b>Run the Executable:</b>Simply double-click the main.exe file to run it.<br>
-<b>The keylogger will start running in the background without opening a console window.</b>
+<b>
+ The keystrokes will be stored in a .txt file named : <i>keyx.txt</i><br>
+ The keylogger will start running in the background without opening a console window.</b>
 
 </ul>
 
